@@ -1,0 +1,28 @@
+name: Up&Up PRODUCTION
+favicon: null
+layout_spectrum: 0.8193941505160183
+typography_spectrum: 0.6551933833397925
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15480361436493695
+  lightness: 0.2317467201501131
+  saturation: 0.22878553322516382
+  rhythmicContrast: 0.8774440973065794
+purpose: []
